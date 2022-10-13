@@ -1,0 +1,100 @@
+{
+   "Music":[
+        {
+          "userId": 1,
+          "id": 1,
+          "title": "Love Mashup",
+          "url": "https://soundcloud.com/dirtyworkzofficial/technikore-we-dont-talk-electric-fox?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 2,
+          "title": "Barkeup Mood",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 3,
+          "title": "Sad Songs",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 4,
+          "title": "Lofi Songs",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 5,
+          "title": "Party Songs",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 6,
+          "title": "8D Audio Songs",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 7,
+          "title": "Panjabi Songs",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 8,
+          "title": "English Songs",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 9,
+          "title": "Old Songs",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 10,
+          "title": "Remix Olc/New",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 10,
+          "title": "Remix Olc/New",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        },
+        {
+          "userId": 1,
+          "id": 10,
+          "title": "Remix Olc/New",
+          "url":"",
+          "start":"1:37",
+          "end":"3:52"
+        }
+    ]
+}
